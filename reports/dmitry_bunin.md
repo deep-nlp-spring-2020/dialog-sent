@@ -18,7 +18,7 @@
 Результаты (MacroF1):
 
 Model | F1-Macro
---- | --- | ---
+--- | ---
 Best competition | 0.458
 ATAE-LSTM | 0.446
 
