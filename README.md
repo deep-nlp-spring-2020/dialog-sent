@@ -34,7 +34,14 @@ dialog-sent
 Также на этом этапе была испробована модель на основе BERT (см. reports/fedor_noskov.md).
 
 Результаты:
-ДОБАВИТЬ РЕЗУЛЬТАТЫ!!!!
+Model | Accuracy
+--- | ---
+AE-LSTM | 0.784
+AT-LSTM | 0.819
+ATAE-LSTM | 0.819
+AE-LSTM (article) | 0.825
+AT-LSTM (article) | 0.831
+ATAE-LSTM (article) | 0.840
 
 #### Russian
 
