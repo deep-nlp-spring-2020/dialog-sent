@@ -6,6 +6,8 @@ dialog-sent
 
 Проект в рамках курса DL in NLP 2020. Решается задача с [соревнования](http://www.dialog-21.ru/evaluation/2015/sentiment/). Сначала решалась задача E (Aspect Based Sentiment Analysis), а затем по просьбе организаторов переключились на задачу C (Aspect-Target Sentiment Classification).
 
+[Презентация](reports/presentation.pdf).
+
 ### ABSA
 
 Задача заключается в том, чтобы определить тональность предложения/текста относительно заданного аспекта.
